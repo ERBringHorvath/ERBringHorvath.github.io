@@ -1,4 +1,4 @@
-# **<ins>SeqForge<ins/>**
+# <ins>SeqForge<ins/>
 
 ## Design Philosophy:
 
